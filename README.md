@@ -24,4 +24,4 @@ Facial authentication is increasingly popular for its security advantages; each 
   to run python main.py
 
 ## output
- ![Example Output 1](Face-Recognition-Login-main\output\Screenshot(18).png)
+ ![Example Output 1](C:\Users\krish\Downloads\Face-Recognition-Login-main\output\Screenshot(18).png)
