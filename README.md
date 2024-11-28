@@ -24,4 +24,4 @@ Facial authentication is increasingly popular for its security advantages; each 
   to run python main.py
 
 ## output
- ![Example Output 1](output\screenshot18.png)
+ ![Example Output 1](output/screenshot18.png)
