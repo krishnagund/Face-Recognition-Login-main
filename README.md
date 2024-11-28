@@ -25,3 +25,6 @@ Facial authentication is increasingly popular for its security advantages; each 
 
 ## output
  ![alt text](output/Screenshot(18).png)
+ ![alt text](output/Screenshot (19).png)
+ ![alt text](output/Screenshot (20).png)
+ ![alt text](output/Screenshot (21).png)
